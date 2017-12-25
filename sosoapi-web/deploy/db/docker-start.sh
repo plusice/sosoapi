@@ -1,0 +1,1 @@
+docker run -d --name=sosoapi_db sosoapi/db:latest

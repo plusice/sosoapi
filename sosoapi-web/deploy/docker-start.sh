@@ -1,0 +1,1 @@
+docker run -d -p 8080:8080 --link sosoapi_db --name=sosoapi_tomcat sosoapi/tomcat:latest
